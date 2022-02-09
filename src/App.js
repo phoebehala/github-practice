@@ -8,6 +8,7 @@ function App() {
       <h1>Hello world</h1>
       <h1>Hello Yuko</h1>
       <h1>Hello Lily</h1>
+      <h1>Hello Ayako</h1>
     </div>
   );
 }
