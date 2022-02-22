@@ -15,7 +15,7 @@ function App() {
       <h1>experiment1-3</h1>
       <h1>experiment2-1</h1>
       <h1>experiment2-2</h1>
-      <h1>This is practice</h1>
+      <h1>This is a great practice</h1>
     </div>
   );
 }
